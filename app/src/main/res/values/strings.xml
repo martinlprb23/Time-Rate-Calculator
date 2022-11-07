@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Tarifa por Tiempo</string>
+
+
+    <string name="tab_text_1" translatable="false">Tiempo</string>
+    <string name="tab_text_2" translatable="false">Actividades</string>
+    <string name="horini">Hora inicio:</string>
+    <string name="horfini">Hora final:</string>
+    <string name="A">Registrar</string>
+    <string name="Trespuntos">...</string>
+    <string name="TarifaT">Tarifa total</string>
+    <string name="Horas">Horas</string>
+    <string name="Minutos">Minutos</string>
+    <string name="Selec">Tipo de tiempo</string>
+    <string name="ingre">0.00</string>
+<string name="tarifaxd">Ingrese su tarifa:</string>
+    <string name="Compar">Compartir</string>
+    <string name="va"></string>
+
+    <string name="MonedaMonto">$</string>
+
+
+
+
+
+    <string name="title_activity_calculadora">Tiempo por Tarifa</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

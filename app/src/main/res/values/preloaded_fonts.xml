@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/actor</item>
+        <item>@font/aldrich</item>
+        <item>@font/allan</item>
+        <item>@font/andika</item>
+        <item>@font/antic</item>
+        <item>@font/archivo_narrow_italic</item>
+        <item>@font/assistant</item>
+        <item>@font/caveat</item>
+        <item>@font/condiment</item>
+    </array>
+</resources>

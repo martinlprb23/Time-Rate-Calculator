@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "671122957099",
+    "firebase_url": "https://tarifaportiempo.firebaseio.com",
+    "project_id": "tarifaportiempo",
+    "storage_bucket": "tarifaportiempo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671122957099:android:a054c53cee170dd2c29b6e",
+        "android_client_info": {
+          "package_name": "com.example.tarifaportiempo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671122957099-024qrju8aj18udl5lsn25e9a1d5i1lkd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tarifaportiempo",
+            "certificate_hash": "7959d730d1d403cfabc7811b84ec4328c0d353c0"
+          }
+        },
+        {
+          "client_id": "671122957099-pmb1dl5ga3jerdbs4obpei5qfpntcoj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAim2Uyw_Qcw5XtG7zjMjPPdHThQQX5hkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671122957099-pmb1dl5ga3jerdbs4obpei5qfpntcoj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
